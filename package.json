@@ -1,0 +1,16 @@
+{
+  "name": "loyaltyv3",
+  "version": "1.0.0",
+  "description": "loyalty anti-aim for gamesense.pub",
+  "main": "build.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js",
+    "start": "nodemon"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "luabundle": "^1.6.0"
+  }
+}

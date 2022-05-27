@@ -1,0 +1,13 @@
+{
+    "outDir": "./dist/loyalty_v3.lua",
+    "requiredLibraries": [
+        {
+            "require": "ffi",
+            "as": "ffi"
+        },
+        {
+            "require": "gamesense/entity",
+            "as": "entity"
+        }
+    ]
+}
