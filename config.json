@@ -1,5 +1,5 @@
 {
-    "outDir": "./dist/loyalty_v3.lua",
+    "outDir": "./dist/your_script.lua",
     "requiredLibraries": [
         {
             "require": "ffi",
