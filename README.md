@@ -18,7 +18,7 @@ By default, cloud dependencies can not be bundled together, so to get around tha
 Example:
 ```
 {
-    "outDir": "./dist/your_script",
+    "outDir": "./dist/your_script.lua",
     "requiredLibraries": [
         {
             "require": "ffi",
